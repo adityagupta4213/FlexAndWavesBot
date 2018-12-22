@@ -1,0 +1,28 @@
+[{
+  "name": "Channel Mode",
+  "description": "Change the channel content mode to one of the following\n0 = None\n1 = Text only\n2 = Attachments only",
+  "command": "channelmode",
+  "syntax": "!!channelmode <mode>",
+  "example": "!!channelmode 1"
+},
+{
+  "name": "Auto React",
+  "description": "Set the bot to react to a particular message with a particular emoji. Add a reaction to the embed that comes after you execute this command",
+  "command": "autoreact",
+  "syntax": "!!autoreact <message>",
+  "example": "!!autoreact welcome"
+},
+{
+  "name": "Remove Automatic Reaction",
+  "description": "Remove a previously set automatic reaction",
+  "command": "autoreact remove",
+  "syntax": "!!autoreact remove <trigger>",
+  "example": "!!autoreact remove welcome"
+},
+{
+  "name": "Prefix",
+  "description": "Change the bot's prefix",
+  "command": "prefix",
+  "syntax": "!!prefix <new_prefix>",
+  "example": "!!prefix ++"
+}]

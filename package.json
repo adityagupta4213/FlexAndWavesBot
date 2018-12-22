@@ -1,0 +1,25 @@
+{
+  "name": "jeon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityagupta4213/Jeon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityagupta4213/Jeon/issues"
+  },
+  "homepage": "https://github.com/adityagupta4213/Jeon#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

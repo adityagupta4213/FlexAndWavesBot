@@ -1,0 +1,34 @@
+[{
+  "name": "Intro",
+  "image": "https://res.cloudinary.com/daemonad/image/upload/v1545477287/introduction_ou5stb.png",
+  "content": "🔹Discord is an all-in-one voice and text chat (initially designed for gamers) that's free, secure, and works on both your desktop and phone.\n🔹 Even though it was meant to be for gaming communities, now it has expanded to be a platform for people around the world with similar interests to form chat rooms (aka servers) and converse with each other.\n\n🔹 It can be used from your phone (both Android and iOS), desktop (Windows, MacOS and Linux) and even just a web browser like Chrome"
+},{
+  "name": "Server",
+  "image": "https://res.cloudinary.com/daemonad/image/upload/v1545477285/server_sghsr4.png",
+  "content": "🔹A server is just another name for a collection of chat rooms created by an individual (or group of people) to chat with others.\n\n🔹 Servers are free to create and can be created by virtually anyone using Discord. They can either be specific to a topic or just for random fun, the purpose doesn't matter.\n\n🔹 Under servers, people can create different `channels` to organize the chat into sub-groups in order to make the main or `general` chat less cluttered.\n\n🔹 You can view the list of all the servers in different ways depending on your device. \n\nIf you're a desktop/laptop user, you can view the servers you've joined by looking at the extreme left side of your Discord application window which will have the icons of the servers. \n\nIf you're a mobile user, you can swipe from left to right in order to get the same list.\n\n🔹 Just click (or tap) on the servers to switch to them."
+}, {
+  "name": "Channel",
+  "image": "https://res.cloudinary.com/daemonad/image/upload/v1545477307/chat_jtyua1.png",
+  "content": "🔹A channel is like a sub-group within a server. It has a particular topic so that chats falling under the topic can be organized in one place.\n\n🔹 For example, a server for music can have different generes of music as channels to provide people with a similar taste of musical generes a particular place to chat about.\n\n🔹 You can view the list of all the channels in different ways depending on your device. \n\nIf you're a desktop/laptop user, you can view the channels in a server by looking at the left side of your Discord application window which will have the name of the server on the top of the list. \n\nIf you're a mobile user, you can swipe from left to right in order to get the same list.\n\n🔹Just click (or tap) on the channels to switch to them."
+},
+{
+  "name": "Members",
+  "image": "https://res.cloudinary.com/daemonad/image/upload/v1545477307/group_t1orjy.png",
+  "content": "🔹 The members of a server none other than the people who've joined it. Different members can have different nicknames as well which can be different from their actual username (the name they use by default).\n\n🔹 You can view the list of all the members in different ways depending on your device. \n\nIf you're a desktop/laptop user, you can view the members in a server by looking at the right side of your Discord application window which will have the nicknames of the members along with their availability status (online, offline, idle or do not disturb as green, grey, yellow and red respectively). \n\nIf you're a mobile user, you can swipe from right to left in order to get the same list.\n\n🔹 Click (or tap) on the members to have a look at their roles and and username or send a direct message."
+},
+{
+  "name": "Roles",
+  "image": "https://res.cloudinary.com/daemonad/image/upload/v1545477285/roles_jlyg6y.png",
+  "content": "🔹 Roles assign a set of permissions to a member. Permissions essentially dictate what a member can or can't do in a particular server. For example, using permissions, a server owner or administrator can define which people can send messages or who can delete others' content etc. Permissions can range from simple (like reading messages) to serious (like kicking or banning members) and therefore a server owner should be careful while assigning them.\n\n🔹 Roles can be used to group multiple permissions into a single, assignable property. They can also be used for simpler stuff like grouping people with similar interests (like a `rap` role in a music server) or giving colors to people's nicknames in the server.\n\n🔹 Though the ability to assign roles lies with the server owner, they can allow other trusted members to do the same by giving them the permission to give other members permissions of lower levels."
+},
+{
+  "name": "Emojis",
+  "image": "https://res.cloudinary.com/daemonad/image/upload/v1545477285/emojis_m3nyke.png",
+  "content": "🔹 Emojis, like for any other social interaction platform, are an integral part of Discord's experience. Discord has a defined set of standard emojis but a server can have it's own custom emojis (upto 50 for free) as well.\n\n🔹 To send an emoji, you can either click the little smiley icon at the right side of the message textbox (which itself lies at the bottom) and pick one or you can type `:` in the message box and start typing in the name of the emoji to perform a quick search and eventually select the one you want."
+},
+{
+  "name": "Reactions",
+  "image": "https://res.cloudinary.com/daemonad/image/upload/v1545477286/reactions_olbrva.png",
+  "content": "🔹 You can add an emoji to a message sent by you or someone else. This is known as a reaction. \n\n🔹 To add an emoji to a message, there are two ways depending on your device.\n\nIf you're a desktop/laptop user, you can add a reaction by clicking the little smiley icon at the top right of that particular message and selecting the desired emoji. \n\nIf you're a mobile user, you can long press the same message and tap on the `Add reaction` option."
+}
+]
